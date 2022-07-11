@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of RStudio and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.reverb.jss.RStudio</string>
+	<string>com.github.jss-recipes.jss.RStudio</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -23,7 +23,7 @@
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>Integrated development environment (IDE) for R.</string>
+		<string></string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
 	</dict>
